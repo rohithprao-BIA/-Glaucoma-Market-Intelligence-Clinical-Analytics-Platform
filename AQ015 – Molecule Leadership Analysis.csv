@@ -1,0 +1,88 @@
+Generic_Name,Company_Name,Total_Products,Average_MRP,Molecule_Leader_Rank
+Acetazolamide,Sun Pharmaceutical,1,64.88,1
+Acetazolamide,FDC ltd.,1,53.02,2
+Acetazolamide,Microlabs Ltd.,1,42.63,3
+Betaxolol,Cipla,1,514.59,1
+Betaxolol,FDC ltd.,1,68.63,2
+Betaxolol,Jawa Pharmaceuticals,1,39.38,3
+Betaxolol,Zydus Pharma,1,28.13,4
+Bimatoprost,Ajanta Pharma,4,371.64,1
+Bimatoprost,Intas Pharmaceuticals,2,595.32,2
+Bimatoprost,Allergan,1,709.6,3
+Bimatoprost,Sun Pharmaceutical,1,594.38,4
+Bimatoprost,Microlabs Ltd.,1,223.1,5
+Bimatoprost + Timolol,Allergan,1,831.04,1
+Bimatoprost+ Timolol,Ajanta Pharma,1,509.06,1
+Brimonidine,Allergan,2,544.35,1
+Brimonidine,Cipla,2,251.38,2
+Brimonidine,FDC ltd.,1,309.38,3
+Brimonidine,Sun Pharmaceutical,1,307.5,4
+Brimonidine,Indoco Remedies,1,257.81,5
+Brimonidine,Irx Pharmaceuticals,1,206.2,6
+Brimonidine,Microlabs Ltd.,1,150.0,7
+Brimonidine,Neiss Laboratories,1,140.0,8
+Brimonidine + Timolol,Allergan,1,522.09,1
+Brimonidine + Timolol,Cipla,1,477.19,2
+Brimonidine + Timolol,Zeelab Pharmacy,1,115.0,3
+Brimonidine+ Brinzolamide,Microlabs Ltd.,2,516.85,1
+Brimonidine+ Timolol,Entod Pharmaceuticals,1,309.3,1
+Brinzolamide,Ipca Pharma,1,675.13,1
+Brinzolamide,Sun Pharmaceutical,1,514.69,2
+Brinzolamide + Brimonidine,Alcon,1,731.85,1
+Brinzolamide + Timolol,Ipca Pharma,1,521.56,1
+Brinzolamide+ Brimonidine,Sun Pharmaceutical,2,526.26,1
+Brinzolamide+ Brimonidine,Cipla,1,515.62,2
+Brinzolamide+ Brimonidine,Neomedix healthcare,1,480.0,3
+Brinzolamide+ Brimonidine,Entod Pharmaceuticals,1,478.1,4
+Brinzolamide+ Brimonidine,Alembic,1,440.0,5
+Brinzolamide+ Brimonidine+ Timolol,Microlabs Ltd.,1,538.0,1
+Dorzolamide,Cipla,1,546.73,1
+Dorzolamide,Microlabs Ltd.,1,450.0,2
+Dorzolamide,Santeen Pharmaceuticles,1,412.5,3
+Dorzolamide + Timolol,Santeen Pharmaceuticles,2,554.69,1
+Dorzolamide + Timolol,Entod Pharmaceuticals,2,341.24,2
+Dorzolamide + Timolol,Cipla,1,581.98,3
+Dorzolamide+ Timolol,His Eyeness,1,645.9,1
+Dorzolamide+ Timolol,Intas Pharmaceuticals,1,567.19,2
+Dorzolamide+ Timolol,Microlabs Ltd.,1,527.8,3
+Dorzolamide+ Timolol,Jawa Pharmaceuticals,1,517.3,4
+Dorzolamide+ Timolol,Sun ways India,1,208.1,5
+Dorzolmide+Timolol,Irx Pharmaceuticals,1,567.0,1
+Dorzolmide+Timolol,Ajanta Pharma,1,471.56,2
+Dorzolmide+Timolol,Neomedix healthcare,1,421.8,3
+Dorzolmide+Timolol,Allergan,1,318.75,4
+Dorzolmide+Timolol,Sapient Pharmaceuticals,1,309.3,5
+Latanoprost,Cipla,2,414.38,1
+Latanoprost,Sun Pharmaceutical,1,621.11,2
+Latanoprost,Viatris,1,596.53,3
+Latanoprost + Timolol,Pfizer,1,675.0,1
+Latanoprst,Microlabs Ltd.,1,348.0,1
+Levobunolol,Allergan,1,153.17,1
+Netarsudil,Ajanta Pharma,1,625.31,1
+Netarsudil,Sun Pharmaceutical,1,556.88,2
+Netarsudil,Ipca Pharma,1,375.0,3
+Pilocarpine,FDC ltd.,2,70.03,1
+Pilocarpine,Sun ways India,1,26.0,2
+Tafluprost,Santeen Pharmaceuticles,1,531.56,1
+Tafluprost,Ajanta Pharma,1,229.69,2
+Taravoprost,Ajanta Pharma,1,147.97,1
+Timolol,Intas Pharmaceuticals,1,71.56,1
+Timolol,Centaur Pharmaceuticals,1,71.55,2
+Timolol,FDC ltd.,1,71.55,2
+Timolol,Microlabs Ltd.,1,71.55,2
+Timolol,Allergan,1,71.51,3
+Timolol,Sun Pharmaceutical,1,71.51,3
+Timolol,Entod Pharmaceuticals,1,70.31,4
+Timolol,Alcon,1,64.22,5
+Timolol,Jaqson Healthcare,1,46.59,6
+Timolol,Lupin,1,44.49,7
+Timolol + Brimonidine,His Eyeness,1,553.1,1
+Travoprost,Alcon,2,960.68,1
+Travoprost,Neomedix healthcare,1,755.0,2
+Travoprost,His Eyeness,1,637.5,3
+Travoprost,FDC ltd.,1,514.6,4
+Travoprost,Alembic,1,467.8,5
+Travoprost,Microlabs Ltd.,1,464.0,6
+Travoprost,Lupin,1,455.4,7
+Travoprost,Sun ways India,1,218.4,8
+Travoprost,Protech remedies,1,187.5,9

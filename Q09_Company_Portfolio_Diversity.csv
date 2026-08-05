@@ -1,0 +1,30 @@
+Company_Name,Total_Products,COUNT(DISTINCT P.drug_class)
+Microlabs Ltd.,11,7
+Sun Pharmaceutical,9,6
+Cipla,9,7
+Ajanta Pharma,9,4
+Allergan,8,6
+FDC ltd.,7,5
+Entod Pharmaceuticals,5,4
+Santeen Pharmaceuticles,4,3
+Alcon,4,3
+Sun ways India,3,3
+Neomedix healthcare,3,3
+Ipca Pharma,3,3
+IntasPharmaceuticle,3,3
+His Eyeness,3,3
+Lupin,2,2
+Jawa Pharmac,2,2
+Irx Pharmaceuticals,2,2
+Alembic,2,2
+viatris,1,1
+Zydus Pharma,1,1
+Zeelab Pharmacy,1,1
+Sapient Pharmaceuticles,1,1
+Protech remedies,1,1
+Pfizer,1,1
+Neiss Laboratories,1,1
+Jaqson Helathcare,1,1
+Intas Pharmaceuticals,1,1
+Indoco Remedies,1,1
+Centaur Pharmaceuticles,1,1

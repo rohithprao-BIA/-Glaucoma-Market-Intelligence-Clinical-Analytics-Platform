@@ -1,0 +1,101 @@
+brand_name,generic_name,Company_Name,Organization,Publication_Year,Recommendation,Recommendation_Strength,Evidence_Level
+Bitoma Eye Drop,Bimatoprost,Ajanta Pharma,AAO,2024,First-line Therapy,Strong,High
+NeTALo,Netarsudil,Ajanta Pharma,AAO,2024,Second-line / Add-on Therapy,Moderate,Moderate
+Bimat,Bimatoprost,Ajanta Pharma,AAO,2024,First-line Therapy,Strong,High
+Bimat LS,Bimatoprost,Ajanta Pharma,AAO,2024,First-line Therapy,Strong,High
+Bimat -T,Bimatoprost+ Timolol,Ajanta Pharma,AAO,2024,First-line Therapy,Strong,High
+Gloria,Bimatoprost,Ajanta Pharma,AAO,2024,First-line Therapy,Strong,High
+Trovaxo,Taravoprost,Ajanta Pharma,EGS,2023,First-line Therapy,Strong,High
+Tafluma,Tafluprost,Ajanta Pharma,EGS,2023,First-line Therapy,Strong,High
+Delzoc-T,Dorzolmide+Timolol,Ajanta Pharma,NICE,2022,Add-on Therapy,Strong,High
+Simbrinza,Brinzolamide + Brimonidine,Alcon,AAO,2024,Add-on Fixed Combination Therapy,Strong,High
+Travatan,Travoprost,Alcon,EGS,2023,First-line Therapy,Strong,High
+Travatan Z,Travoprost,Alcon,EGS,2023,First-line Therapy,Strong,High
+Timolast,Timolol,Alcon,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Brinzemic-B,Brinzolamide+ Brimonidine,Alembic,AAO,2024,Add-on Fixed Combination Therapy,Strong,High
+Travisight,Travoprost,Alembic,EGS,2023,First-line Therapy,Strong,High
+Lumigan,Bimatoprost,Allergan,AAO,2024,First-line Therapy,Strong,High
+COMBIGAN,Brimonidine + Timolol,Allergan,AIOS,2023,Add-on Fixed Combination Therapy,Strong,High
+Ganfort,Bimatoprost + Timolol,Allergan,AIOS,2023,Add-on Fixed Combination Therapy,Strong,High
+Alphagan,Brimonidine,Allergan,EGS,2023,Add-on Therapy,Moderate,High
+Alphagan Z,Brimonidine,Allergan,EGS,2023,Add-on Therapy,Moderate,High
+Betagan,Levobunolol,Allergan,GSI,2023,Alternative First-line Therapy,Moderate,High
+Glucomol,Timolol,Allergan,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Dorcor-T,Dorzolmide+Timolol,Allergan,NICE,2022,Add-on Therapy,Strong,High
+Glucotim LA,Timolol,Centaur Pharmaceuticles,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Brimodine B,Brinzolamide+ Brimonidine,Cipla,AAO,2024,Add-on Fixed Combination Therapy,Strong,High
+9PM,Latanoprost,Cipla,AIOS,2023,First-line Therapy,Strong,High
+Ioprost,Latanoprost,Cipla,AIOS,2023,First-line Therapy,Strong,High
+Brimolol,Brimonidine + Timolol,Cipla,AIOS,2023,Add-on Fixed Combination Therapy,Strong,High
+Brimodin,Brimonidine,Cipla,EGS,2023,Add-on Therapy,Moderate,High
+Brimodin P,Brimonidine,Cipla,EGS,2023,Add-on Therapy,Moderate,High
+Dorzox T,Dorzolamide + Timolol,Cipla,NICE,2022,Add-on Therapy,Strong,High
+Optipres,Betaxolol,Cipla,NICE,2022,Alternative First-line Therapy,Moderate,High
+Dorzox,Dorzolamide,Cipla,NPCBVI,2022,Add-on Therapy,Moderate,Moderate
+Duo 2,Brinzolamide+ Brimonidine,Entod Pharmaceuticals,AAO,2024,Add-on Fixed Combination Therapy,Strong,High
+Abpress Eye,Brimonidine+ Timolol,Entod Pharmaceuticals,AIOS,2023,Add-on Fixed Combination Therapy,Strong,High
+Timol-P,Timolol,Entod Pharmaceuticals,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Ocudor T,Dorzolamide + Timolol,Entod Pharmaceuticals,NICE,2022,Add-on Therapy,Strong,High
+Endor Plus,Dorzolamide + Timolol,Entod Pharmaceuticals,NICE,2022,Add-on Therapy,Strong,High
+Pilocar,Pilocarpine,FDC ltd.,AAO,2024,Second-line / Acute Therapy,Moderate,Moderate
+Pilocar 4%,Pilocarpine,FDC ltd.,AAO,2024,Second-line / Acute Therapy,Moderate,Moderate
+Iobrim,Brimonidine,FDC ltd.,EGS,2023,Add-on Therapy,Moderate,High
+Zytrav,Travoprost,FDC ltd.,EGS,2023,First-line Therapy,Strong,High
+Iotim,Timolol,FDC ltd.,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Iobet,Betaxolol,FDC ltd.,NICE,2022,Alternative First-line Therapy,Moderate,High
+Iopar-SR Capsule,Acetazolamide,FDC ltd.,NPCBVI,2022,Acute / Second-line Therapy,Strong,High
+Alphabet PF,Timolol + Brimonidine,His Eyeness,AIOS,2023,Add-on Fixed Combination Therapy,Strong,High
+Awerene PF,Travoprost,His Eyeness,EGS,2023,First-line Therapy,Strong,High
+Dorbet PF,Dorzolamide+ Timolol,His Eyeness,NICE,2022,Add-on Therapy,Strong,High
+Brimochek,Brimonidine,Indoco Remedies,EGS,2023,Add-on Therapy,Moderate,High
+Lashisma,Bimatoprost,Intas Pharmaceuticals,AAO,2024,First-line Therapy,Strong,High
+Intraprost (Eye),Bimatoprost,IntasPharmaceuticle,AAO,2024,First-line Therapy,Strong,High
+Timolong,Timolol,IntasPharmaceuticle,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Dortas-T,Dorzolamide+ Timolol,IntasPharmaceuticle,NICE,2022,Add-on Therapy,Strong,High
+Netasudil,Netarsudil,Ipca Pharma,AAO,2024,Second-line / Add-on Therapy,Moderate,Moderate
+Azopt,Brinzolamide,Ipca Pharma,EGS,2023,Add-on Therapy,Moderate,High
+Azarga,Brinzolamide + Timolol,Ipca Pharma,GSI,2023,Add-on Therapy,Strong,High
+Brimorx,Brimonidine,Irx Pharmaceuticals,EGS,2023,Add-on Therapy,Moderate,High
+Dorzorx-T,Dorzolmide+Timolol,Irx Pharmaceuticals,NICE,2022,Add-on Therapy,Strong,High
+Timotic,Timolol,Jaqson Helathcare,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Bexol Eye,Betaxolol,Jawa Pharmac,NICE,2022,Alternative First-line Therapy,Moderate,High
+Dortim,Dorzolamide+ Timolol,Jawa Pharmac,NICE,2022,Add-on Therapy,Strong,High
+Lupitros Z,Travoprost,Lupin,EGS,2023,First-line Therapy,Strong,High
+Timoblu,Timolol,Lupin,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Bimaday LS,Bimatoprost,Microlabs Ltd.,AAO,2024,First-line Therapy,Strong,High
+Betafree,Brimonidine+ Brinzolamide,Microlabs Ltd.,AAO,2024,Add-on Fixed Combination Therapy,Strong,High
+Betafree LS,Brimonidine+ Brinzolamide,Microlabs Ltd.,AAO,2024,Add-on Fixed Combination Therapy,Strong,High
+Laprost,Latanoprst,Microlabs Ltd.,AIOS,2023,First-line Therapy,Strong,High
+Travo Z,Travoprost,Microlabs Ltd.,EGS,2023,First-line Therapy,Strong,High
+Rimonid,Brimonidine,Microlabs Ltd.,EGS,2023,Add-on Therapy,Moderate,High
+Trisopt,Brinzolamide+ Brimonidine+ Timolol,Microlabs Ltd.,ICO,2022,Add-on Therapy,Moderate,Moderate
+Lopres,Timolol,Microlabs Ltd.,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Misopt,Dorzolamide+ Timolol,Microlabs Ltd.,NICE,2022,Add-on Therapy,Strong,High
+Acetamide,Acetazolamide,Microlabs Ltd.,NPCBVI,2022,Acute / Second-line Therapy,Strong,High
+Monosopt,Dorzolamide,Microlabs Ltd.,NPCBVI,2022,Add-on Therapy,Moderate,Moderate
+Brimonist,Brimonidine,Neiss Laboratories,EGS,2023,Add-on Therapy,Moderate,High
+Brinmide-B,Brinzolamide+ Brimonidine,Neomedix healthcare,AAO,2024,Add-on Fixed Combination Therapy,Strong,High
+Travstar PF,Travoprost,Neomedix healthcare,EGS,2023,First-line Therapy,Strong,High
+Dorfort-T,Dorzolmide+Timolol,Neomedix healthcare,NICE,2022,Add-on Therapy,Strong,High
+Xalacom,Latanoprost + Timolol,Pfizer,GSI,2023,Add-on / Fixed Combination Therapy,Strong,High
+Travipress PF,Travoprost,Protech remedies,EGS,2023,First-line Therapy,Strong,High
+Saflutan,Tafluprost,Santeen Pharmaceuticles,AIOS,2023,First-line Therapy,Strong,High
+Cosopt,Dorzolamide + Timolol,Santeen Pharmaceuticles,NICE,2022,Add-on Therapy,Strong,High
+Cosopt PF,Dorzolamide + Timolol,Santeen Pharmaceuticles,NICE,2022,Add-on Therapy,Strong,High
+Trusopt,Dorzolamide,Santeen Pharmaceuticles,NPCBVI,2022,Add-on Therapy,Moderate,Moderate
+Glustop,Dorzolmide+Timolol,Sapient Pharmaceuticles,NICE,2022,Add-on Therapy,Strong,High
+Careprost (Eye),Bimatoprost,Sun Pharmaceutical,AAO,2024,First-line Therapy,Strong,High
+Raiki,Netarsudil,Sun Pharmaceutical,AAO,2024,Second-line / Add-on Therapy,Moderate,Moderate
+Synca,Brinzolamide+ Brimonidine,Sun Pharmaceutical,AAO,2024,Add-on Fixed Combination Therapy,Strong,High
+Synca LS,Brinzolamide+ Brimonidine,Sun Pharmaceutical,AAO,2024,Add-on Fixed Combination Therapy,Strong,High
+Latoprost RT,Latanoprost,Sun Pharmaceutical,AIOS,2023,First-line Therapy,Strong,High
+Brimosun LS,Brimonidine,Sun Pharmaceutical,EGS,2023,Add-on Therapy,Moderate,High
+Brinolar BKC Free,Brinzolamide,Sun Pharmaceutical,EGS,2023,Add-on Therapy,Moderate,High
+Timolet,Timolol,Sun Pharmaceutical,ICO,2022,Alternative First-line / Add-on Therapy,Moderate,High
+Diamox Tablet,Acetazolamide,Sun Pharmaceutical,NPCBVI,2022,Acute / Second-line Therapy,Strong,High
+Carpinol,Pilocarpine,Sun ways India,AAO,2024,Second-line / Acute Therapy,Moderate,Moderate
+Travosun,Travoprost,Sun ways India,EGS,2023,First-line Therapy,Strong,High
+Dorsun,Dorzolamide+ Timolol,Sun ways India,NICE,2022,Add-on Therapy,Strong,High
+Brimoz T,Brimonidine + Timolol,Zeelab Pharmacy,AIOS,2023,Add-on Fixed Combination Therapy,Strong,High
+Ocupres,Betaxolol,Zydus Pharma,NICE,2022,Alternative First-line Therapy,Moderate,High
+Xalatan,Latanoprost,viatris,AIOS,2023,First-line Therapy,Strong,High

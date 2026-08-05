@@ -1,0 +1,101 @@
+Company_Name,brand_name,generic_name,MRP,Company_Average_MRP,Difference_From_Average,Product_Category
+Ajanta Pharma,NeTALo,Netarsudil,625.31,385.57,239.74,Premium Product
+Ajanta Pharma,Bimat -T,Bimatoprost+ Timolol,509.06,385.57,123.49,Premium Product
+Ajanta Pharma,Gloria,Bimatoprost,486.56,385.57,100.99,Premium Product
+Ajanta Pharma,Delzoc-T,Dorzolmide+Timolol,471.56,385.57,85.99,Premium Product
+Ajanta Pharma,Bimat,Bimatoprost,450,385.57,64.43,Premium Product
+Ajanta Pharma,Bimat LS,Bimatoprost,300,385.57,-85.57,Economy Product
+Ajanta Pharma,Bitoma Eye Drop,Bimatoprost,250,385.57,-135.57,Economy Product
+Ajanta Pharma,Tafluma,Tafluprost,229.69,385.57,-155.88,Economy Product
+Ajanta Pharma,Trovaxo,Taravoprost,147.97,385.57,-237.6,Economy Product
+Alcon,Travatan,Travoprost,960.68,679.36,281.32,Premium Product
+Alcon,Travatan Z,Travoprost,960.68,679.36,281.32,Premium Product
+Alcon,Simbrinza,Brinzolamide + Brimonidine,731.85,679.36,52.49,Premium Product
+Alcon,Timolast,Timolol,64.22,679.36,-615.14,Economy Product
+Alembic,Travisight,Travoprost,467.8,453.9,13.9,Premium Product
+Alembic,Brinzemic-B,Brinzolamide+ Brimonidine,440,453.9,-13.9,Economy Product
+Allergan,Ganfort,Bimatoprost + Timolol,831.04,461.86,369.18,Premium Product
+Allergan,Lumigan,Bimatoprost,709.6,461.86,247.74,Premium Product
+Allergan,Alphagan Z,Brimonidine,602.41,461.86,140.55,Premium Product
+Allergan,COMBIGAN,Brimonidine + Timolol,522.09,461.86,60.23,Premium Product
+Allergan,Alphagan,Brimonidine,486.28,461.86,24.42,Premium Product
+Allergan,Dorcor-T,Dorzolmide+Timolol,318.75,461.86,-143.11,Economy Product
+Allergan,Betagan,Levobunolol,153.17,461.86,-308.69,Economy Product
+Allergan,Glucomol,Timolol,71.51,461.86,-390.35,Economy Product
+Centaur Pharmaceuticles,Glucotim LA,Timolol,71.55,71.55,0.0,Average Product
+Cipla,9PM,Latanoprost,621.15,440.85,180.3,Premium Product
+Cipla,Dorzox T,Dorzolamide + Timolol,581.98,440.85,141.13,Premium Product
+Cipla,Dorzox,Dorzolamide,546.73,440.85,105.88,Premium Product
+Cipla,Brimodine B,Brinzolamide+ Brimonidine,515.62,440.85,74.77,Premium Product
+Cipla,Optipres,Betaxolol,514.59,440.85,73.74,Premium Product
+Cipla,Brimolol,Brimonidine + Timolol,477.19,440.85,36.34,Premium Product
+Cipla,Brimodin,Brimonidine,344.33,440.85,-96.52,Economy Product
+Cipla,Ioprost,Latanoprost,207.62,440.85,-233.23,Economy Product
+Cipla,Brimodin P,Brimonidine,158.44,440.85,-282.41,Economy Product
+Entod Pharmaceuticals,Duo 2,Brinzolamide+ Brimonidine,478.1,308.04,170.06,Premium Product
+Entod Pharmaceuticals,Endor Plus,Dorzolamide + Timolol,448.1,308.04,140.06,Premium Product
+Entod Pharmaceuticals,Abpress Eye,Brimonidine+ Timolol,309.3,308.04,1.26,Premium Product
+Entod Pharmaceuticals,Ocudor T,Dorzolamide + Timolol,234.38,308.04,-73.66,Economy Product
+Entod Pharmaceuticals,Timol-P,Timolol,70.31,308.04,-237.73,Economy Product
+FDC ltd.,Zytrav,Travoprost,514.6,165.32,349.28,Premium Product
+FDC ltd.,Iobrim,Brimonidine,309.38,165.32,144.06,Premium Product
+FDC ltd.,Pilocar,Pilocarpine,86.78,165.32,-78.54,Economy Product
+FDC ltd.,Iotim,Timolol,71.55,165.32,-93.77,Economy Product
+FDC ltd.,Iobet,Betaxolol,68.63,165.32,-96.69,Economy Product
+FDC ltd.,Pilocar 4%,Pilocarpine,53.28,165.32,-112.04,Economy Product
+FDC ltd.,Iopar-SR Capsule,Acetazolamide,53.02,165.32,-112.3,Economy Product
+His Eyeness,Dorbet PF,Dorzolamide+ Timolol,645.9,612.17,33.73,Premium Product
+His Eyeness,Awerene PF,Travoprost,637.5,612.17,25.33,Premium Product
+His Eyeness,Alphabet PF,Timolol + Brimonidine,553.1,612.17,-59.07,Economy Product
+Indoco Remedies,Brimochek,Brimonidine,257.81,257.81,0.0,Average Product
+Intas Pharmaceuticals,Lashisma,Bimatoprost,750,750.0,0.0,Average Product
+IntasPharmaceuticle,Dortas-T,Dorzolamide+ Timolol,567.19,359.79,207.4,Premium Product
+IntasPharmaceuticle,Intraprost (Eye),Bimatoprost,440.63,359.79,80.84,Premium Product
+IntasPharmaceuticle,Timolong,Timolol,71.56,359.79,-288.23,Economy Product
+Ipca Pharma,Azopt,Brinzolamide,675.13,523.9,151.23,Premium Product
+Ipca Pharma,Azarga,Brinzolamide + Timolol,521.56,523.9,-2.34,Economy Product
+Ipca Pharma,Netasudil,Netarsudil,375,523.9,-148.9,Economy Product
+Irx Pharmaceuticals,Dorzorx-T,Dorzolmide+Timolol,567,386.6,180.4,Premium Product
+Irx Pharmaceuticals,Brimorx,Brimonidine,206.2,386.6,-180.4,Economy Product
+Jaqson Helathcare,Timotic,Timolol,46.59,46.59,0.0,Average Product
+Jawa Pharmac,Dortim,Dorzolamide+ Timolol,517.3,278.34,238.96,Premium Product
+Jawa Pharmac,Bexol Eye,Betaxolol,39.38,278.34,-238.96,Economy Product
+Lupin,Lupitros Z,Travoprost,455.4,249.94,205.45,Premium Product
+Lupin,Timoblu,Timolol,44.49,249.94,-205.45,Economy Product
+Microlabs Ltd.,Betafree,Brimonidine+ Brinzolamide,543.7,349.89,193.81,Premium Product
+Microlabs Ltd.,Trisopt,Brinzolamide+ Brimonidine+ Timolol,538,349.89,188.11,Premium Product
+Microlabs Ltd.,Misopt,Dorzolamide+ Timolol,527.8,349.89,177.91,Premium Product
+Microlabs Ltd.,Betafree LS,Brimonidine+ Brinzolamide,490,349.89,140.11,Premium Product
+Microlabs Ltd.,Travo Z,Travoprost,464,349.89,114.11,Premium Product
+Microlabs Ltd.,Monosopt,Dorzolamide,450,349.89,100.11,Premium Product
+Microlabs Ltd.,Laprost,Latanoprst,348,349.89,-1.89,Economy Product
+Microlabs Ltd.,Bimaday LS,Bimatoprost,223.1,349.89,-126.79,Economy Product
+Microlabs Ltd.,Rimonid,Brimonidine,150,349.89,-199.89,Economy Product
+Microlabs Ltd.,Lopres,Timolol,71.55,349.89,-278.34,Economy Product
+Microlabs Ltd.,Acetamide,Acetazolamide,42.63,349.89,-307.26,Economy Product
+Neiss Laboratories,Brimonist,Brimonidine,140,140.0,0.0,Average Product
+Neomedix healthcare,Travstar PF,Travoprost,755,552.27,202.73,Premium Product
+Neomedix healthcare,Brinmide-B,Brinzolamide+ Brimonidine,480,552.27,-72.27,Economy Product
+Neomedix healthcare,Dorfort-T,Dorzolmide+Timolol,421.8,552.27,-130.47,Economy Product
+Pfizer,Xalacom,Latanoprost + Timolol,675,675.0,0.0,Average Product
+Protech remedies,Travipress PF,Travoprost,187.5,187.5,0.0,Average Product
+Santeen Pharmaceuticles,Cosopt PF,Dorzolamide + Timolol,650,513.36,136.64,Premium Product
+Santeen Pharmaceuticles,Saflutan,Tafluprost,531.56,513.36,18.2,Premium Product
+Santeen Pharmaceuticles,Cosopt,Dorzolamide + Timolol,459.38,513.36,-53.98,Economy Product
+Santeen Pharmaceuticles,Trusopt,Dorzolamide,412.5,513.36,-100.86,Economy Product
+Sapient Pharmaceuticles,Glustop,Dorzolmide+Timolol,309.3,309.3,0.0,Average Product
+Sun Pharmaceutical,Latoprost RT,Latanoprost,621.11,420.39,200.72,Premium Product
+Sun Pharmaceutical,Careprost (Eye),Bimatoprost,594.38,420.39,173.99,Premium Product
+Sun Pharmaceutical,Synca,Brinzolamide+ Brimonidine,585.94,420.39,165.55,Premium Product
+Sun Pharmaceutical,Raiki,Netarsudil,556.88,420.39,136.49,Premium Product
+Sun Pharmaceutical,Brinolar BKC Free,Brinzolamide,514.69,420.39,94.3,Premium Product
+Sun Pharmaceutical,Synca LS,Brinzolamide+ Brimonidine,466.58,420.39,46.19,Premium Product
+Sun Pharmaceutical,Brimosun LS,Brimonidine,307.5,420.39,-112.89,Economy Product
+Sun Pharmaceutical,Timolet,Timolol,71.51,420.39,-348.88,Economy Product
+Sun Pharmaceutical,Diamox Tablet,Acetazolamide,64.88,420.39,-355.51,Economy Product
+Sun ways India,Travosun,Travoprost,218.4,150.83,67.57,Premium Product
+Sun ways India,Dorsun,Dorzolamide+ Timolol,208.1,150.83,57.27,Premium Product
+Sun ways India,Carpinol,Pilocarpine,26,150.83,-124.83,Economy Product
+Zeelab Pharmacy,Brimoz T,Brimonidine + Timolol,115,115.0,0.0,Average Product
+Zydus Pharma,Ocupres,Betaxolol,28.13,28.13,0.0,Average Product
+viatris,Xalatan,Latanoprost,596.53,596.53,0.0,Average Product
