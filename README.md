@@ -1,55 +1,74 @@
-Glaucoma Market Intelligence & Clinical Analytics Platform
-Healthcare Analytics | SQL | Power BI | DAX | Pharmaceutical Intelligence
+# Glaucoma Market Intelligence & Clinical Analytics Platform
 
-A healthcare analytics portfolio project integrating glaucoma pharmaceutical product data, pricing intelligence, competitive portfolio analysis, molecule-level intelligence, clinical evidence, safety information, and guideline recommendations into an interactive Power BI dashboard.
+### Healthcare Analytics | SQL | Power BI | DAX | Pharmaceutical Intelligence
 
-The project demonstrates an end-to-end analytics workflow using a relational data model, SQL analysis, DAX measures, and Power BI visualization.
+An end-to-end healthcare analytics portfolio project integrating **glaucoma pharmaceutical product data, pricing intelligence, competitive portfolio analysis, molecule-level intelligence, clinical evidence, safety information, and guideline recommendations** into an interactive Power BI dashboard.
 
-Project Overview
+The project demonstrates a complete analytics workflow using relational data modeling, SQL analysis, DAX calculations, and Power BI visualization.
 
-The Glaucoma Market Intelligence & Clinical Analytics Platform was developed to analyze the commercial and clinical landscape of glaucoma products and molecules.
+---
 
-The project connects product-level commercial information with molecule-level clinical evidence, guidelines, and safety information through a relational data model.
+## Project Overview
 
-Dataset at a glance
-Metric	Value
-Products	100
-Companies	37
-Molecules	19
-Drug classes	11
-Combination molecules	7
-Clinical evidence records	56
-Molecules with clinical evidence	19
-Evidence coverage	100%
-Guideline-covered molecules	19
-Average MRP	₹387.45
-Preservative-free products	26
-Project Objectives
+The **Glaucoma Market Intelligence & Clinical Analytics Platform** was developed to analyze the commercial and clinical landscape of glaucoma pharmaceutical products and molecules.
 
-The project was designed to answer key commercial and clinical intelligence questions:
+The project connects product-level commercial information with molecule-level clinical evidence, guideline recommendations, safety information, and pricing data through a relational database structure.
 
-How is the glaucoma product portfolio distributed across companies?
-How does pricing vary across products, companies, and drug classes?
-Which companies have broader glaucoma portfolios?
-Which molecules have greater competitive reach?
-How are molecules distributed across competing companies?
-What level of clinical evidence is available for each molecule?
-What is the overall evidence coverage?
-What is the strength of guideline recommendations?
-How can commercial and clinical information be combined for strategic positioning?
-🛠️ Technology Stack
-Area	Technology
-Data querying & analysis	SQL
-Data modeling	Relational database
-Dashboard & visualization	Microsoft Power BI
-Analytical calculations	DAX
-Documentation	Markdown / Excel
-Domain	Healthcare / Ophthalmology / Pharmaceutical Analytics
-Database Structure
+### Dataset at a glance
 
-The project uses a relational structure connecting commercial, clinical, guideline, safety, and pricing information.
+| Metric | Value |
+|---|---:|
+| Products | 100 |
+| Companies | 37 |
+| Molecules | 19 |
+| Drug classes | 11 |
+| Combination molecules | 7 |
+| Clinical evidence records | 56 |
+| Molecules with clinical evidence | 19 |
+| Evidence coverage | 100% |
+| Guideline-covered molecules | 19 |
+| Average MRP | ₹387.45 |
+| Preservative-free products | 26 |
 
-Core relationships
+---
+
+## Project Objectives
+
+The project was designed to answer key commercial, competitive, and clinical intelligence questions:
+
+- How is the glaucoma product portfolio distributed across companies?
+- How does pricing vary across products, companies, and drug classes?
+- Which companies have broader glaucoma portfolios?
+- Which molecules have greater competitive reach?
+- How are molecules distributed across competing companies?
+- What clinical evidence is available for each molecule?
+- What is the overall clinical evidence coverage?
+- What is the strength of guideline recommendations?
+- How do commercial and clinical indicators combine to support strategic positioning?
+
+---
+
+## Technology Stack
+
+| Area | Technology |
+|---|---|
+| Data querying & analysis | SQL |
+| Data modeling | Relational database |
+| Dashboard & visualization | Microsoft Power BI |
+| Analytical calculations | DAX |
+| Data documentation | Microsoft Excel |
+| Documentation | Markdown / PDF |
+| Domain | Healthcare / Ophthalmology / Pharmaceutical Analytics |
+
+---
+
+## Database Structure
+
+The project uses a relational data model connecting commercial, pricing, molecule, clinical evidence, guideline, and safety information.
+
+### Core relationships
+
+```text
 Companies
     │
     └── Products
@@ -61,7 +80,7 @@ Molecules
     ├── Clinical Evidence
     ├── Guidelines
     └── Safety Profile
-Key relationships
+### Key relationships
 Products.company_id
         ↓
 Companies.Company_ID
@@ -85,10 +104,10 @@ Molecules.Molecule_ID
 Safety Profile.Molecule_ID
         ↓
 Molecules.Molecule_ID
-Database Tables
+## Database Tables
 Companies
 
-Contains company-level information including company identity, founding year, parent company, ophthalmology focus, glaucoma focus, and website information.
+Contains company-level information including founding year, parent company, ophthalmology focus, glaucoma focus, and website information.
 
 Products
 
@@ -102,7 +121,7 @@ Price_per_ml provides a normalized pricing metric for comparing products with di
 
 Molecules
 
-Contains generic name, drug class, mechanism of action, therapeutic line, route, dosing frequency, expected IOP reduction, approval information, WHO EML status, patent status, and related clinical information.
+Contains generic name, drug class, mechanism of action, therapeutic line, route, dosing frequency, expected IOP reduction, approval information, WHO EML status, patent status, and related molecule-level information.
 
 Clinical Evidence
 
@@ -110,13 +129,13 @@ Contains study information including study design, publication year, journal, po
 
 Guidelines
 
-Contains guideline organization, publication year, molecule, drug class, recommendation, recommendation strength, evidence level, and preferred-for context.
+Contains guideline organization, publication year, molecule, drug class, recommendation, recommendation strength, evidence level, preferred-for context, and notes.
 
 Safety Profile
 
-Contains common and serious adverse effects, contraindications, black-box warnings, pregnancy and lactation considerations, renal/hepatic adjustment, and monitoring requirements.
+Contains common and serious adverse effects, contraindications, black-box warnings, pregnancy and lactation considerations, renal/hepatic adjustment, monitoring requirements, and clinical notes.
 
-Power BI Dashboard
+## Power BI Dashboard
 
 The final dashboard contains six analytical pages.
 
@@ -136,19 +155,19 @@ Finding: Product MRP ranges from ₹26.00 to ₹960.68, with an overall average 
 
 Why: To assess how companies differ in their product portfolios and competitive presence.
 
-Finding: The 37 companies do not carry identical molecule portfolios, making molecule-level competitive reach more informative than product count alone.
+Finding: The 37 companies do not carry identical molecule portfolios, making molecule-level competitive reach useful for understanding competitive intensity.
 
 4. Molecule Intelligence
 
 Why: To examine molecule-level portfolio coverage and understand how companies compete across the 19 molecules.
 
-Finding: The molecule–company matrix demonstrates variation in competitive reach and shows that companies maintain different molecule combinations.
+Finding: The molecule-company matrix demonstrates variation in competitive reach and shows that companies maintain different molecule combinations.
 
 5. Clinical Evidence & Guidelines
 
-Why: To assess the clinical evidence supporting the molecules and understand the strength of guideline recommendations.
+Why: To assess the clinical evidence supporting the molecules and understand guideline recommendation strength.
 
-Finding: All 19 molecules have clinical evidence within the analyzed dataset, representing 56 evidence records, while guideline recommendations are categorized as Strong or Moderate.
+Finding: All 19 molecules have clinical evidence within the analyzed dataset, representing 56 evidence records. Guideline recommendations are categorized as Strong or Moderate.
 
 6. Strategic Positioning
 
@@ -156,12 +175,12 @@ Why: To combine commercial and clinical indicators into a molecule-level strateg
 
 Finding: Dorzolamide + Timolol has the highest displayed competitive reach at 13 companies, while pricing and recommendation strength provide additional positioning context.
 
-Key Findings
+## Key Findings
 Competitive Landscape
 
 The dataset contains 100 products across 37 companies and 19 molecules.
 
-Companies do not carry identical molecule baskets, making molecule-level competitive reach an important metric for understanding the competitive landscape.
+Companies do not carry identical molecule portfolios, making molecule-level competitive reach an important metric for understanding the competitive landscape.
 
 Pricing
 
@@ -189,9 +208,9 @@ Guideline recommendation strength is represented by:
 8 Moderate
 SQL Analysis
 
-SQL was used as a core component of the data preparation and analytical workflow.
+SQL forms a core part of the analytical workflow.
 
-The SQL work includes:
+## The SQL analysis includes:
 
 Data validation
 Filtering
@@ -203,16 +222,22 @@ Company analysis
 Molecule analysis
 Clinical evidence analysis
 Guideline analysis
+Safety analysis
 Window functions
 CTE-based analysis
 Ranking and comparative analysis
 
-The SQL scripts and analytical outputs are organized under:
+### The SQL queries and their corresponding analytical outputs are organized as:
 
 sql/
 ├── queries/
+│   ├── README.md
+│   └── SQL analysis files
+│
 └── outputs/
-Power BI & DAX
+    ├── README.md
+    └── CSV analysis outputs
+## Power BI & DAX
 
 Power BI was used for:
 
@@ -221,11 +246,12 @@ KPI development
 Interactive dashboard design
 Matrix analysis
 Comparative visualization
+Molecule-level analysis
 Strategic positioning
 
 DAX was used to create analytical measures and KPI calculations supporting the dashboard.
 
-Data Sources
+## Data Sources
 
 Major source categories used during data compilation and validation included:
 
@@ -237,25 +263,20 @@ Publicly available healthcare and regulatory sources
 
 Different fields may have different source provenance depending on the type of information collected.
 
-📁 Repository Structure
-Glaucoma-Market-Intelligence/
+## Repository Structure
+Glaucoma-Market-Intelligence-Clinical-Analytics-Platform/
 │
 ├── README.md
 │
 ├── dashboard/
+│   ├── README.md
 │   └── Glaucoma_Market_Intelligence_v0.2.pbix
-│
-├── sql/
-│   ├── queries/
-│   │   └── SQL analysis scripts
-│   │
-│   └── outputs/
-│       └── CSV analysis outputs
 │
 ├── data/
 │   ├── Data_Dictionary.xlsx
 │   │
 │   └── source_data/
+│       ├── README.md
 │       ├── Companies.xlsx
 │       ├── Products.xlsx
 │       ├── Pricing.xlsx
@@ -265,18 +286,19 @@ Glaucoma-Market-Intelligence/
 │       └── Safety_Profile.xlsx
 │
 ├── documentation/
-│   ├── Final_Project_Report.pdf
-│   └── ER_Diagram.jpg
+│   ├── README.md
+│   └── Final_Project_Report.pdf
 │
-└── screenshots/
-    ├── 01_executive_overview.png
-    ├── 02_pricing_intelligence.png
-    ├── 03_competitor_intelligence.png
-    ├── 04_molecule_intelligence.png
-    ├── 05_clinical_evidence_guidelines.png
-    └── 06_strategic_positioning.png
-Skills Demonstrated
-Technical
+└── sql/
+    ├── queries/
+    │   ├── README.md
+    │   └── SQL analysis files
+    │
+    └── outputs/
+        ├── README.md
+        └── CSV analysis outputs
+## Skills Demonstrated
+Technical Skills
 SQL
 Power BI
 DAX
@@ -285,7 +307,8 @@ Data validation
 Data aggregation
 Data visualization
 KPI development
-Domain & Analytics
+Analytical reporting
+Healthcare & Analytics Skills
 Healthcare analytics
 Ophthalmology analytics
 Pharmaceutical market intelligence
@@ -297,7 +320,7 @@ Guideline analysis
 Safety profile analysis
 Portfolio analysis
 Strategic visualization
-Limitations
+## Limitations
 
 This project represents an analytical assessment of the compiled dataset.
 
@@ -313,7 +336,7 @@ Pricing observations represent the analyzed dataset and should not be interprete
 
 Clinical and guideline conclusions are limited to the records represented in the project dataset.
 
-Evidence Data Note
+## Evidence Data Note
 
 Most molecules have three clinical evidence records, while Levobunolol has two.
 
@@ -321,7 +344,7 @@ The resulting 56 evidence records across 19 molecules produce an evidence densit
 
 Evidence density should therefore be interpreted as a dataset coverage/depth metric, not as a direct measure of clinical evidence quality.
 
-Future Improvements
+## Future Improvements
 
 Potential extensions include:
 
@@ -335,12 +358,16 @@ Competitor trend analysis
 Market-share data integration
 Advanced molecule-level opportunity scoring
 Automated guideline updates
-Project Report
+## Project Report
 
-A detailed project report covering the methodology, database architecture, dashboard analysis, findings, and limitations is available in:
+A detailed project report covering the methodology, database architecture, SQL analysis, Power BI dashboard, findings, and limitations is available in:
 
 documentation/Final_Project_Report.pdf
-Disclaimer
+
+### The complete database field definitions are available in:
+
+data/Data_Dictionary.xlsx
+## Disclaimer
 
 This project is intended for educational, portfolio, and analytical purposes.
 
