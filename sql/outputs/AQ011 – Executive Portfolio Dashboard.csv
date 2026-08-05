@@ -1,0 +1,29 @@
+Company_Name,Total_Products,Total_Molecules,PF_Products,Average_MRP,Highest_MRP,Portfolio_Size,Pricing_Strategy,Premium_Products
+Alcon,4,3,0,679.36,960.68,Small Portfolio,Premium,3
+Pfizer,1,1,0,675.0,675,Small Portfolio,Premium,0
+His Eyeness,3,3,3,612.17,645.9,Small Portfolio,Premium,2
+Viatris,1,1,0,596.53,596.53,Small Portfolio,Premium,0
+Neomedix healthcare,3,3,1,552.27,755,Small Portfolio,Premium,1
+Ipca Pharma,3,3,0,523.9,675.13,Small Portfolio,Premium,1
+Santeen Pharmaceuticles,4,3,1,513.36,650,Small Portfolio,Premium,2
+Allergan,8,7,0,461.86,831.04,Medium Portfolio,Mid Premium,5
+Intas Pharmaceuticals,4,3,0,457.35,750,Small Portfolio,Mid Premium,2
+Alembic,2,2,1,453.9,467.8,Small Portfolio,Mid Premium,1
+Cipla,9,7,1,440.85,621.15,Medium Portfolio,Mid Premium,6
+Sun Pharmaceutical,9,8,3,420.39,621.11,Medium Portfolio,Mid Premium,6
+Irx Pharmaceuticals,2,2,0,386.6,567,Small Portfolio,Mid Premium,1
+Ajanta Pharma,9,6,1,385.57,625.31,Medium Portfolio,Mid Premium,5
+Microlabs Ltd.,11,10,9,349.89,543.7,Large Portfolio,Mid Premium,6
+Sapient Pharmaceuticals,1,1,0,309.3,309.3,Small Portfolio,Mid Premium,0
+Entod Pharmaceuticals,5,4,0,308.04,478.1,Medium Portfolio,Mid Premium,3
+Jawa Pharmaceuticals,2,2,0,278.34,517.3,Small Portfolio,Economy,1
+Indoco Remedies,1,1,0,257.81,257.81,Small Portfolio,Economy,0
+Lupin,2,2,1,249.94,455.4,Small Portfolio,Economy,1
+Protech remedies,1,1,0,187.5,187.5,Small Portfolio,Economy,0
+FDC ltd.,7,6,1,165.32,514.6,Medium Portfolio,Economy,2
+Sun ways India,3,3,1,150.83,218.4,Small Portfolio,Economy,2
+Neiss Laboratories,1,1,0,140.0,140,Small Portfolio,Economy,0
+Zeelab Pharmacy,1,1,0,115.0,115,Small Portfolio,Economy,0
+Centaur Pharmaceuticals,1,1,0,71.55,71.55,Small Portfolio,Economy,0
+Jaqson Healthcare,1,1,0,46.59,46.59,Small Portfolio,Economy,0
+Zydus Pharma,1,1,0,28.13,28.13,Small Portfolio,Economy,0
